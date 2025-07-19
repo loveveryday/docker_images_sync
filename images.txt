@@ -1,1 +1,1 @@
-nginx:mainline-alpine
+kong/deck

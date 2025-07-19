@@ -1,1 +1,1 @@
-kong/deck
+deck
